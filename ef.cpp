@@ -17,7 +17,7 @@ int main()
                     scanf("%d",&val);
                     printf("año de deprezacion");
                     scanf("%d",&n);
-                    printf("\nsu valor por deprezacion anual es de %d\n",val/n);
+                    printf("\nsu valor por deprezacion anuales es de %d\n",val/n);
                     break;
                     case 2:
                     printf("valor del objeto");
