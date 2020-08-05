@@ -8,7 +8,7 @@ int main()
         int val=0,n=0,aux=0,deprec=0,anual=0,eleccion;
     
        do{
-            printf("ingresa la opccion <1>,<2>,<3>");
+            printf("elige la opccion <1>,<2>,<3>");
             scanf("%d",&eleccion);
                 switch (eleccion)
                 {
